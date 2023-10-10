@@ -324,7 +324,7 @@ Capacidad de implementar propiedades o métodos heredados de maneras diferentes 
 
 # Evolución
 
-- Simplificar Átomos, Moléculas y Organismos en Celulas y Organismos
+- Simplificar Átomos, Moléculas y Organismos en Celulas y Organismos. **Bio Containers**
 
 <div class="flex justify-center items-center mb-5">
   <img src="/public/imgs/cell.png" class="h-50" />
