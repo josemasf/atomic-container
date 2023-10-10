@@ -174,6 +174,7 @@ layout: two-thirds
 
 <template v-slot:first-col>
 ```ts
+/// ButtonAtom.vue
   <template>
     <div class="p-5 bg-dark border-rounded">
       <button @click="increment">Púlasame {{ count }}</button>
