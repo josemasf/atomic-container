@@ -283,39 +283,39 @@ Capacidad de implementar propiedades o métodos heredados de maneras diferentes 
     <tr>
       <th class="px-4 py-2">Área</th>
       <th class="px-4 py-2">Tipo de test</th>
-      <th class="px-4 py-2">¿Mocks?</th>
+      <th class="px-4 py-2">Mocks</th>
     </tr>
   </thead>
   <tbody>
     <tr >
       <td class="px-4 py-2">Atomos</td>
       <td class="px-4 py-2">Unit tests</td>
-      <td class="px-4 py-2">No</td>
+      <td class="px-4 py-2">Props de ejemplo</td>
     </tr>
     <tr>
       <td class="px-4 py-2">Moléculas</td>
       <td class="px-4 py-2">Unit tests</td>
-      <td class="px-4 py-2">No</td>
+      <td class="px-4 py-2">Props de ejemplo</td>
     </tr>
     <tr>
       <td class="px-4 py-2">Organismos</td>
       <td class="px-4 py-2">Unit tests</td>
-      <td class="px-4 py-2">No</td>
+      <td class="px-4 py-2">Props de ejemplo</td>
     </tr>
     <tr class="bg-blue-800">
       <td class="px-4 py-2">Contenedores</td>
       <td class="px-4 py-2">Integration tests</td>
-      <td class="px-4 py-2">Sí, servidor (api o cuestiones de datetime)</td>
+      <td class="px-4 py-2">Servidor (api o cuestiones de datetime)</td>
     </tr>
     <tr class="bg-blue-800">
       <td class="px-4 py-2">Vistas</td>
       <td class="px-4 py-2">Integration tests</td>
-      <td class="px-4 py-2">Sí, servidor (api o cuestiones de datetime)</td>
+      <td class="px-4 py-2">Servidor (api o cuestiones de datetime)</td>
     </tr>
     <tr class="bg-red-800">
       <td class="px-4 py-2">App.vue</td>
       <td class="px-4 py-2">End-to-end tests</td>
-      <td class="px-4 py-2">No</td>
+      <td class="px-4 py-2">No, ampliación de casos de uso</td>
     </tr>
   </tbody>
 </table>
