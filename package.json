@@ -10,7 +10,7 @@
     "slidev": ">=0.19.3"
   },
   "scripts": {
-    "build": "slidev build slides.md",
+    "build": "slidev build",
     "dev": "slidev slides.md --open",
     "export": "slidev export slides.md",
     "screenshot": "slidev export slides.md --format png"
